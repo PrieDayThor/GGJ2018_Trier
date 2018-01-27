@@ -19,7 +19,7 @@ public class TrailDrawer : NetworkBehaviour {
 
     // Update is called once per frame
     void FixedUpdate() {
-        if (!isLocalPlayer || !isServer){
+        if (!isLocalPlayer){// || !isServer
             return;
         }
 
