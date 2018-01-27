@@ -14,12 +14,14 @@ public class TrailDrawer : NetworkBehaviour {
 
     public void Start()
     {
-        objPlane = new Plane(Camera.main.transform.forward * -1, this.transform.position + Vector3.forward * 1.0f);
+        objPlane = new Plane(Camera.main.transform.forward * -1, this.transform.position + Vector3.forward * 5.0f);
     }
 
     // Update is called once per frame
     void FixedUpdate() {
-        if (!isLocalPlayer) return;
+        if (!isLocalPlayer || !isServer){
+            return;
+        }
 
         if (Input.GetMouseButtonDown(0)) {
             // Do the raycast and calculation on the client
@@ -33,7 +35,9 @@ public class TrailDrawer : NetworkBehaviour {
                 // position as parameter to the server
                 CmdSpawn(this.gameObject, startPos);
             }
-        } else if (Input.GetMouseButton(0)) {
+        } 
+        if (Input.GetMouseButton(0)) {
+            
             // Do the raycast and calculation on the client
             Ray mRay = Camera.main.ScreenPointToRay(Input.mousePosition);
 
@@ -59,18 +63,15 @@ public class TrailDrawer : NetworkBehaviour {
         RpcSetCurrentTrail(callingClient, currentTrail);
     }
 
-    // ClientRpc is somehow the opposite of Command
-    // It is invoked from the server but only executed on ALL clients
-    // so we have to make sure that it is only executed on the client
-    // who originally called the CmdSpawn method
+    // On call on Client who originally called
     [ClientRpc]
     private void RpcSetCurrentTrail(GameObject client, GameObject trails) {
         // do nothing if this client is not the one who called the spawn method
-        //if (this.gameObject != client) return;
+        if (this.gameObject != client) return;
 
         // also do nothing if the calling client himself is the server
         // -> he is the host
-        //if (isServer) return;
+        if (isServer) return;
 
         // set currentTrail on the client
         currentTrail = trails;
