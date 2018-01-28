@@ -45,8 +45,5 @@ public class UIManager : MonoBehaviour {
         anim.SetBool("settingsMenu", true);
     }
 
-    public void PRINT()
-    {
-        print("PRITNIEONT");
-    }
+
 }
