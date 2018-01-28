@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0e7bccf76fa0a054a97e38f8cdde6bb3
+timeCreated: 1517093667
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Libre Franklin
+  fontNames:
+  - Libre Franklin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
