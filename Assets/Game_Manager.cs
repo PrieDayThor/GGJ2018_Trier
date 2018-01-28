@@ -39,7 +39,6 @@ public class Game_Manager : MonoBehaviour {
 
     private void Awake() {
         PrepareData();
-        PrintData();
         ShuffleCallerArray();
         PicturesToUI();
         m_PlayerPoints.text = m_PlayerScore.ToString();
