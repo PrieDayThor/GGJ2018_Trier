@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using CallerStuff;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Game_Manager : MonoBehaviour {
 
@@ -208,5 +209,9 @@ public class Game_Manager : MonoBehaviour {
         for(int count = m_SpawnedButtons.Count - 1; count > 0; count--) {
             Destroy(m_SpawnedButtons[count]);
         }
+    }
+
+    public void LoadMainMenu() {
+        SceneManager.LoadScene("Menu", LoadSceneMode.Single);
     }
 }
