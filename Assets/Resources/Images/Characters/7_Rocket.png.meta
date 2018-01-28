@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 9ad0416727e986647b289643b2905121
-timeCreated: 1517109450
+timeCreated: 1517134676
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Rocket_0
-    21300002: Rocket_1
-    21300004: Rocket_2
-    21300006: Rocket_3
-    21300008: Rocket_4
-    21300010: Rocket_5
-    21300012: Rocket_6
-    21300014: Rocket_7
-    21300016: Rocket_8
-    21300018: Rocket_9
-    21300020: Rocket_10
-    21300022: Rocket_11
+    21300000: 07_Rocket_0
+    21300002: 07_Rocket_1
+    21300004: 07_Rocket_2
+    21300006: 07_Rocket_3
+    21300008: 07_Rocket_4
+    21300010: 07_Rocket_5
+    21300012: 07_Rocket_6
+    21300014: 07_Rocket_7
+    21300016: 07_Rocket_8
+    21300018: 07_Rocket_9
+    21300020: 07_Rocket_10
+    21300022: 07_Rocket_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rocket_0
+      name: 07_Rocket_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,13 +110,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_1
+      name: 07_Rocket_1
       rect:
         serializedVersion: 2
         x: 1024
@@ -124,13 +124,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_2
+      name: 07_Rocket_2
       rect:
         serializedVersion: 2
         x: 2048
@@ -138,13 +138,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_3
+      name: 07_Rocket_3
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_4
+      name: 07_Rocket_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -166,13 +166,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_5
+      name: 07_Rocket_5
       rect:
         serializedVersion: 2
         x: 2048
@@ -180,13 +180,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_6
+      name: 07_Rocket_6
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +194,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_7
+      name: 07_Rocket_7
       rect:
         serializedVersion: 2
         x: 1024
@@ -208,13 +208,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_8
+      name: 07_Rocket_8
       rect:
         serializedVersion: 2
         x: 2048
@@ -222,13 +222,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_9
+      name: 07_Rocket_9
       rect:
         serializedVersion: 2
         x: 0
@@ -236,13 +236,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_10
+      name: 07_Rocket_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -250,13 +250,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rocket_11
+      name: 07_Rocket_11
       rect:
         serializedVersion: 2
         x: 2048
@@ -264,7 +264,7 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

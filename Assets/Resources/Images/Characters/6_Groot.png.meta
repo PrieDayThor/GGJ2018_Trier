@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 6f67596e26582884abd11efba25ebd16
-timeCreated: 1517109212
+timeCreated: 1517134623
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Groot_0
-    21300002: Groot_1
-    21300004: Groot_2
-    21300006: Groot_3
-    21300008: Groot_4
-    21300010: Groot_5
-    21300012: Groot_6
-    21300014: Groot_7
-    21300016: Groot_8
-    21300018: Groot_9
-    21300020: Groot_10
-    21300022: Groot_11
+    21300000: 06_Groot_0
+    21300002: 06_Groot_1
+    21300004: 06_Groot_2
+    21300006: 06_Groot_3
+    21300008: 06_Groot_4
+    21300010: 06_Groot_5
+    21300012: 06_Groot_6
+    21300014: 06_Groot_7
+    21300016: 06_Groot_8
+    21300018: 06_Groot_9
+    21300020: 06_Groot_10
+    21300022: 06_Groot_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Groot_0
+      name: 06_Groot_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,13 +110,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_1
+      name: 06_Groot_1
       rect:
         serializedVersion: 2
         x: 1024
@@ -124,13 +124,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_2
+      name: 06_Groot_2
       rect:
         serializedVersion: 2
         x: 2048
@@ -138,13 +138,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_3
+      name: 06_Groot_3
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_4
+      name: 06_Groot_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -166,13 +166,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_5
+      name: 06_Groot_5
       rect:
         serializedVersion: 2
         x: 2048
@@ -180,13 +180,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_6
+      name: 06_Groot_6
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +194,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_7
+      name: 06_Groot_7
       rect:
         serializedVersion: 2
         x: 1024
@@ -208,13 +208,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_8
+      name: 06_Groot_8
       rect:
         serializedVersion: 2
         x: 2048
@@ -222,13 +222,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_9
+      name: 06_Groot_9
       rect:
         serializedVersion: 2
         x: 0
@@ -236,13 +236,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_10
+      name: 06_Groot_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -250,13 +250,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Groot_11
+      name: 06_Groot_11
       rect:
         serializedVersion: 2
         x: 2048
@@ -264,7 +264,7 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 3fd9c46b809ad844995907ac507c6dbc
-timeCreated: 1517107652
+timeCreated: 1517134307
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Baumbart_0
-    21300002: Baumbart_1
-    21300004: Baumbart_2
-    21300006: Baumbart_3
-    21300008: Baumbart_4
-    21300010: Baumbart_5
-    21300012: Baumbart_6
-    21300014: Baumbart_7
-    21300016: Baumbart_8
-    21300018: Baumbart_9
-    21300020: Baumbart_10
-    21300022: Baumbart_11
+    21300000: 00_Baumbart_0
+    21300002: 00_Baumbart_1
+    21300004: 00_Baumbart_2
+    21300006: 00_Baumbart_3
+    21300008: 00_Baumbart_4
+    21300010: 00_Baumbart_5
+    21300012: 00_Baumbart_6
+    21300014: 00_Baumbart_7
+    21300016: 00_Baumbart_8
+    21300018: 00_Baumbart_9
+    21300020: 00_Baumbart_10
+    21300022: 00_Baumbart_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Baumbart_0
+      name: 00_Baumbart_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,13 +110,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_1
+      name: 00_Baumbart_1
       rect:
         serializedVersion: 2
         x: 1024
@@ -124,13 +124,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_2
+      name: 00_Baumbart_2
       rect:
         serializedVersion: 2
         x: 2048
@@ -138,13 +138,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_3
+      name: 00_Baumbart_3
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_4
+      name: 00_Baumbart_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -166,13 +166,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_5
+      name: 00_Baumbart_5
       rect:
         serializedVersion: 2
         x: 2048
@@ -180,13 +180,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_6
+      name: 00_Baumbart_6
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +194,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_7
+      name: 00_Baumbart_7
       rect:
         serializedVersion: 2
         x: 1024
@@ -208,13 +208,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_8
+      name: 00_Baumbart_8
       rect:
         serializedVersion: 2
         x: 2048
@@ -222,13 +222,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_9
+      name: 00_Baumbart_9
       rect:
         serializedVersion: 2
         x: 0
@@ -236,13 +236,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_10
+      name: 00_Baumbart_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -250,13 +250,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Baumbart_11
+      name: 00_Baumbart_11
       rect:
         serializedVersion: 2
         x: 2048
@@ -264,7 +264,7 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

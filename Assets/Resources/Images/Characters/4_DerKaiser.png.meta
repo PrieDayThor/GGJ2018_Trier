@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: 6625a3acf547b4041aa216d3b3eb4939
-timeCreated: 1517109091
+timeCreated: 1517134528
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: DerKaiser_0
-    21300002: DerKaiser_1
-    21300004: DerKaiser_2
-    21300006: DerKaiser_3
-    21300008: DerKaiser_4
-    21300010: DerKaiser_5
-    21300012: DerKaiser_6
-    21300014: DerKaiser_7
-    21300016: DerKaiser_8
-    21300018: DerKaiser_9
-    21300020: DerKaiser_10
-    21300022: DerKaiser_11
+    21300000: 04_DerKaiser_0
+    21300002: 04_DerKaiser_1
+    21300004: 04_DerKaiser_2
+    21300006: 04_DerKaiser_3
+    21300008: 04_DerKaiser_4
+    21300010: 04_DerKaiser_5
+    21300012: 04_DerKaiser_6
+    21300014: 04_DerKaiser_7
+    21300016: 04_DerKaiser_8
+    21300018: 04_DerKaiser_9
+    21300020: 04_DerKaiser_10
+    21300022: 04_DerKaiser_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DerKaiser_0
+      name: 04_DerKaiser_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,13 +110,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_1
+      name: 04_DerKaiser_1
       rect:
         serializedVersion: 2
         x: 1024
@@ -124,13 +124,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_2
+      name: 04_DerKaiser_2
       rect:
         serializedVersion: 2
         x: 2048
@@ -138,13 +138,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_3
+      name: 04_DerKaiser_3
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_4
+      name: 04_DerKaiser_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -166,13 +166,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_5
+      name: 04_DerKaiser_5
       rect:
         serializedVersion: 2
         x: 2048
@@ -180,13 +180,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_6
+      name: 04_DerKaiser_6
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +194,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_7
+      name: 04_DerKaiser_7
       rect:
         serializedVersion: 2
         x: 1024
@@ -208,13 +208,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_8
+      name: 04_DerKaiser_8
       rect:
         serializedVersion: 2
         x: 2048
@@ -222,13 +222,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_9
+      name: 04_DerKaiser_9
       rect:
         serializedVersion: 2
         x: 0
@@ -236,13 +236,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_10
+      name: 04_DerKaiser_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -250,13 +250,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: DerKaiser_11
+      name: 04_DerKaiser_11
       rect:
         serializedVersion: 2
         x: 2048
@@ -264,7 +264,7 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

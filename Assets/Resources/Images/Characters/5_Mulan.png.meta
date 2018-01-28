@@ -1,21 +1,21 @@
 fileFormatVersion: 2
 guid: d4d38dca0e9fc04429ca661ea6e1845a
-timeCreated: 1517109410
+timeCreated: 1517134572
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Mulan_0
-    21300002: Mulan_1
-    21300004: Mulan_2
-    21300006: Mulan_3
-    21300008: Mulan_4
-    21300010: Mulan_5
-    21300012: Mulan_6
-    21300014: Mulan_7
-    21300016: Mulan_8
-    21300018: Mulan_9
-    21300020: Mulan_10
-    21300022: Mulan_11
+    21300000: 05_Mulan_0
+    21300002: 05_Mulan_1
+    21300004: 05_Mulan_2
+    21300006: 05_Mulan_3
+    21300008: 05_Mulan_4
+    21300010: 05_Mulan_5
+    21300012: 05_Mulan_6
+    21300014: 05_Mulan_7
+    21300016: 05_Mulan_8
+    21300018: 05_Mulan_9
+    21300020: 05_Mulan_10
+    21300022: 05_Mulan_11
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,7 +102,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mulan_0
+      name: 05_Mulan_0
       rect:
         serializedVersion: 2
         x: 0
@@ -110,13 +110,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_1
+      name: 05_Mulan_1
       rect:
         serializedVersion: 2
         x: 1024
@@ -124,13 +124,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_2
+      name: 05_Mulan_2
       rect:
         serializedVersion: 2
         x: 2048
@@ -138,13 +138,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_3
+      name: 05_Mulan_3
       rect:
         serializedVersion: 2
         x: 0
@@ -152,13 +152,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_4
+      name: 05_Mulan_4
       rect:
         serializedVersion: 2
         x: 1024
@@ -166,13 +166,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_5
+      name: 05_Mulan_5
       rect:
         serializedVersion: 2
         x: 2048
@@ -180,13 +180,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_6
+      name: 05_Mulan_6
       rect:
         serializedVersion: 2
         x: 0
@@ -194,13 +194,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_7
+      name: 05_Mulan_7
       rect:
         serializedVersion: 2
         x: 1024
@@ -208,13 +208,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_8
+      name: 05_Mulan_8
       rect:
         serializedVersion: 2
         x: 2048
@@ -222,13 +222,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_9
+      name: 05_Mulan_9
       rect:
         serializedVersion: 2
         x: 0
@@ -236,13 +236,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_10
+      name: 05_Mulan_10
       rect:
         serializedVersion: 2
         x: 1024
@@ -250,13 +250,13 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Mulan_11
+      name: 05_Mulan_11
       rect:
         serializedVersion: 2
         x: 2048
@@ -264,7 +264,7 @@ TextureImporter:
         width: 1024
         height: 1024
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
