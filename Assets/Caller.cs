@@ -5,23 +5,23 @@ namespace CallerStuff {
     public class Caller {
 
         AudioClip m_SoundClip;
-        Sprite m_Sprite;
+        string m_ImageID;
 
-        public Caller(AudioClip p_Clip, Sprite P_Sprite) {
+        public Caller(AudioClip p_Clip, string p_ImageID) {
             m_SoundClip = p_Clip;
-            m_Sprite = P_Sprite;
+            m_ImageID = p_ImageID;
         }
 
         public AudioClip GetSound() {
             return m_SoundClip;
         }
 
-        public Sprite GetSprite() {
-            return m_Sprite;
+        public string GetImageID() {
+            return m_ImageID;
         }
 
         public override string ToString() {
-            return "[Clip: " + m_SoundClip.name + " AnimatorController: " + m_Sprite.name +  "]";
+            return "[Clip: " + m_SoundClip.name + " ImageID: " + m_ImageID +  "]";
         }
     }
 

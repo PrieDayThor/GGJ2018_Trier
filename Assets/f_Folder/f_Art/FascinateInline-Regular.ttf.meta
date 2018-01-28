@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f3ef8bf19fcba1144bc4ffd4e47d314f
+timeCreated: 1517141012
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fascinate Inline
+  fontNames:
+  - Fascinate Inline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
